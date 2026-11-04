@@ -1,0 +1,6 @@
+﻿[1С:Ник]
+ibs_ver=3
+Connect=File="/data/user/0/ru.publishing1c.nik/files/1C/1cem/e8fbecbb-dd22-9745-8174-2a1caadf73dc";
+ID=1e7def97-7255-6242-b07e-0345a1b8060b
+WA=0
+UpdateURL=v8res://templates/conf.xml
