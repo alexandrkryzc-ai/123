@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="fire-count" value="1" />
+    <string name="last-used-date">2026-11-04</string>
+    <long name="fire-global" value="1793805052347" />
+    <set name="device-brand/vivo fire-transport/18.2.0 fire-android/34 kotlin/2.2.21 device-name/V2329A android-installer/com.android.vending fire-core/21.0.0 device-model/graceltexx fire-core-ktx/21.0.0 fire-fcm/24.1.2 fire-installations/17.2.0 android-min-sdk/21 android-platform/ android-target-sdk/36">
+        <string>2026-11-04</string>
+    </set>
+</map>
